@@ -1,9 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "transactions": [
+    {
+      "name": "conta de água",
+      "amount": -100,
+      "id": 1
+    },
+    {
+      "name": "freelance",
+      "amount": 400,
+      "id": 2
+    },
+    {
+      "name": "lanche",
+      "amount": -25,
+      "id": 3
+    },
+    {
+      "name": "Conta de Luz",
+      "amount": 200,
+      "id": 5
+    }
+  ]
 }
